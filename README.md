@@ -4,6 +4,7 @@ t3gallery
 
 - [x] make a deploy (vercel)
 - [x] scaffold basic ui
+- [ ] tidy up build process
 - [ ] set up database (veercel postgres)
 - [ ] attach database to ui
 - [ ] add authentfication (w/ clerk)
