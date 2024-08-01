@@ -2,8 +2,8 @@ t3gallery
 
 ## TODO
 
-- [ ]make a deploy (vercel)
-- [ ] scaffold basic ui
+- [x] make a deploy (vercel)
+- [x] scaffold basic ui
 - [ ] set up database (veercel postgres)
 - [ ] attach database to ui
 - [ ] add authentfication (w/ clerk)
